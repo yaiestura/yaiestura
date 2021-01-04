@@ -7,19 +7,20 @@
   </em>
 </p>
 
-- 🌱 To Be Updated )
-- 🤔 I’m looking for a job as Data Scientist, Data Analyst, Machine Learning Engineer at Junior Position
+- 🤔 Currently looking for a job as a Data Scientist / Data Analyst / Machine Learning Engineer as Intern or at Junior Position
+
+- 💬 Skills: 
+     - Math: Calculus, Linear Algebra, Probability, Statistics, Discrete Mathematics;<br>
+     - Languages: Python, SQL, Bash, JavaScript;<br>
+     - Knowledge: SQLite, MySQL, PostgreSQL, Spark, Databricks, Linux-based systems, Computer networks, Git, Slack;<br>
+     - ML/DL tools: PyTorch, LightGBM, CatBoost, XGBoost, Scikit-learn, Pandas, NumPy, Scipy, Matplotlib, Seaborn;
+     
 - 💬 University Background: 
      - Programming, Algorithms, Unix, Linux, Databases, Computer Networks, Physics, Circut Design, Electronics, Web Development, Multimedia and Videotechnologies;<br>
      - Applied Economics Minor Courses: Microeconomics, Macroeconomics, Industrial Economy, Econometrics;<br>
      - C++, SQL, HTML, CSS, SASS, JavaScript, jQuery, p5.js, React.js, Python, flask, sqlalchemy, AutoCAD, LTSpice, MATLAB, Mathcad;
-- 💬 Skills: 
-     - Studying: Data Science, Machine Learning, Deep Learning;<br>
-     - Maths: Calculus, Linear Algebra, Probability, Statistics;<br>
-     - Languages: Python, JavaScript, R, SQL;<br>
-     - Development: git, Slack
-     - Data Science Stack: Python, jupyter, pandas, numpy, scipy, sklearn, matplotlib, seaborn;
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/patsvetov)
+
+- 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/patsvetov); [**Kaggle**](https://www.kaggle.com/paultsvetov)
 
 [![Linkedin: patsvetov](https://img.shields.io/badge/-patsvetov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patsvetov/)](https://www.linkedin.com/in/patsvetov/)
 [![GitHub yaiestura](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/yaiestura)
