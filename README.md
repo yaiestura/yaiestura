@@ -7,7 +7,7 @@
   </em>
 </p>
 
-- 🤔 Currently working as a Junior Data Scientist
+- 🤔 Currently working as a Data Scientist / MLE in FinTech
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/patsvetov); [**Kaggle**](https://www.kaggle.com/paultsvetov)
 
 [![Linkedin: patsvetov](https://img.shields.io/badge/-patsvetov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patsvetov/)](https://www.linkedin.com/in/patsvetov/)
